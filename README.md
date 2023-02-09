@@ -41,7 +41,7 @@ optional arguments:
 
 Example:
 
-`python main.py https://www.example.com`
+`python main.py https://www.facebook.com`
 
 ### **Output**
 

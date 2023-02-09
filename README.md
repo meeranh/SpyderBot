@@ -14,6 +14,7 @@ To run SpyderBot, you need to have the following software installed:
 ### **Installation**
 
 To install SpyderBot, simply clone the repository using the following command:
+
 `git clone https://github.com/meeranh/SpyderBot.git`
 
 ### **Usage**
@@ -24,7 +25,7 @@ The following command-line arguments can be used with SpyderBot:
 
 This will display the available command-line arguments:
 
-`
+```
 usage: main.py [-h] [--scope SCOPE] url
 
 Spider a website
@@ -36,7 +37,7 @@ optional arguments:
   -h, --help            show this help message and exit
   --scope SCOPE, -s SCOPE
                         Scope of the spider
-`
+```
 
 Example:
 

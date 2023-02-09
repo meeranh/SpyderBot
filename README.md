@@ -1,5 +1,7 @@
 # **SpyderBot**
 
+https://user-images.githubusercontent.com/102342274/217726372-1f8063b3-d159-4528-b408-9eca2401c955.mp4
+
 SpyderBot is a simple Python script designed to spider a website and gather all its internal links. The links are stored in a text file for future reference.
 
 ### **Requirements**

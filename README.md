@@ -11,6 +11,10 @@ To run SpyderBot, you need to have the following software installed:
 * requests
 * bs4
 
+Install all requirements with:
+
+`pip install -r requirements.txt`
+
 ### **Installation**
 
 To install SpyderBot, simply clone the repository using the following command:
